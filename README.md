@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aidana</h1>
 <h3 align="center">A passionate Front End Developer from Canada</h3>
 
-![1ea3c20d](https://github.com/AriGitCode/aidana/assets/102875790/cdc922bf-256a-4c1c-bdff-260baa729d2f)
+![1ea3c20d](https://github.com/AriGitCode/AriGitCode/assets/102875790/4a5bc1b7-0e17-477f-8dd0-d092a72bd75a)
+
+
 
 # About Me
 
