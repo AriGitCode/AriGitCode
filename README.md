@@ -7,7 +7,6 @@
 
 # About Me
 
-- 💼 Graduated from General Assembly's Software Engineering Immersive program!
 
 - 🔭 I’m currently working on **My Own Portfolio**💃
 
