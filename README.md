@@ -7,7 +7,8 @@
 
 # About Me
 
-
+- 📚 Graduated from **General Assembly**
+  
 - 🔭 I’m currently working on **My Own Portfolio**💃
 
 - 🌱 I’m currently learning **UX Design Professional**
